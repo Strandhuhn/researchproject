@@ -1,4 +1,4 @@
-# Science Project
+# Sciene software project
 A project about my research. What soever.
 ## usage
 
